@@ -1,0 +1,8 @@
+C:\Users\abc\source\repos\Assignments_Programs\Assignments_Programs\bin\Debug\Assignments_Programs.exe.config
+C:\Users\abc\source\repos\Assignments_Programs\Assignments_Programs\bin\Debug\Assignments_Programs.exe
+C:\Users\abc\source\repos\Assignments_Programs\Assignments_Programs\bin\Debug\Assignments_Programs.pdb
+C:\Users\abc\source\repos\Assignments_Programs\Assignments_Programs\obj\Debug\Assignments_Programs.csproj.AssemblyReference.cache
+C:\Users\abc\source\repos\Assignments_Programs\Assignments_Programs\obj\Debug\Assignments_Programs.csproj.SuggestedBindingRedirects.cache
+C:\Users\abc\source\repos\Assignments_Programs\Assignments_Programs\obj\Debug\Assignments_Programs.csproj.CoreCompileInputs.cache
+C:\Users\abc\source\repos\Assignments_Programs\Assignments_Programs\obj\Debug\Assignments_Programs.exe
+C:\Users\abc\source\repos\Assignments_Programs\Assignments_Programs\obj\Debug\Assignments_Programs.pdb

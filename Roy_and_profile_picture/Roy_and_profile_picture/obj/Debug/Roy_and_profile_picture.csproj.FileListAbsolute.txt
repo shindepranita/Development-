@@ -1,0 +1,8 @@
+C:\Users\abc\source\repos\Roy_and_profile_picture\Roy_and_profile_picture\obj\Debug\Roy_and_profile_picture.csproj.AssemblyReference.cache
+C:\Users\abc\source\repos\Roy_and_profile_picture\Roy_and_profile_picture\obj\Debug\Roy_and_profile_picture.csproj.SuggestedBindingRedirects.cache
+C:\Users\abc\source\repos\Roy_and_profile_picture\Roy_and_profile_picture\obj\Debug\Roy_and_profile_picture.csproj.CoreCompileInputs.cache
+C:\Users\abc\source\repos\Roy_and_profile_picture\Roy_and_profile_picture\bin\Debug\Roy_and_profile_picture.exe.config
+C:\Users\abc\source\repos\Roy_and_profile_picture\Roy_and_profile_picture\bin\Debug\Roy_and_profile_picture.exe
+C:\Users\abc\source\repos\Roy_and_profile_picture\Roy_and_profile_picture\bin\Debug\Roy_and_profile_picture.pdb
+C:\Users\abc\source\repos\Roy_and_profile_picture\Roy_and_profile_picture\obj\Debug\Roy_and_profile_picture.exe
+C:\Users\abc\source\repos\Roy_and_profile_picture\Roy_and_profile_picture\obj\Debug\Roy_and_profile_picture.pdb

@@ -1,0 +1,8 @@
+C:\Users\abc\source\repos\Ali and Helping innocent people\Ali and Helping innocent people\bin\Debug\Ali and Helping innocent people.exe.config
+C:\Users\abc\source\repos\Ali and Helping innocent people\Ali and Helping innocent people\bin\Debug\Ali and Helping innocent people.exe
+C:\Users\abc\source\repos\Ali and Helping innocent people\Ali and Helping innocent people\bin\Debug\Ali and Helping innocent people.pdb
+C:\Users\abc\source\repos\Ali and Helping innocent people\Ali and Helping innocent people\obj\Debug\Ali and Helping innocent people.csproj.AssemblyReference.cache
+C:\Users\abc\source\repos\Ali and Helping innocent people\Ali and Helping innocent people\obj\Debug\Ali and Helping innocent people.csproj.SuggestedBindingRedirects.cache
+C:\Users\abc\source\repos\Ali and Helping innocent people\Ali and Helping innocent people\obj\Debug\Ali and Helping innocent people.csproj.CoreCompileInputs.cache
+C:\Users\abc\source\repos\Ali and Helping innocent people\Ali and Helping innocent people\obj\Debug\Ali and Helping innocent people.exe
+C:\Users\abc\source\repos\Ali and Helping innocent people\Ali and Helping innocent people\obj\Debug\Ali and Helping innocent people.pdb

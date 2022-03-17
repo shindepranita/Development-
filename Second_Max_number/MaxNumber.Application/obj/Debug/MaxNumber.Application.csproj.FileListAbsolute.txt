@@ -1,0 +1,6 @@
+C:\Users\abc\Documents\HackerEarth_Programs\Second_Max_number\MaxNumber.Application\bin\Debug\MaxNumber.Application.dll
+C:\Users\abc\Documents\HackerEarth_Programs\Second_Max_number\MaxNumber.Application\bin\Debug\MaxNumber.Application.pdb
+C:\Users\abc\Documents\HackerEarth_Programs\Second_Max_number\MaxNumber.Application\obj\Debug\MaxNumber.Application.csproj.AssemblyReference.cache
+C:\Users\abc\Documents\HackerEarth_Programs\Second_Max_number\MaxNumber.Application\obj\Debug\MaxNumber.Application.csproj.CoreCompileInputs.cache
+C:\Users\abc\Documents\HackerEarth_Programs\Second_Max_number\MaxNumber.Application\obj\Debug\MaxNumber.Application.dll
+C:\Users\abc\Documents\HackerEarth_Programs\Second_Max_number\MaxNumber.Application\obj\Debug\MaxNumber.Application.pdb

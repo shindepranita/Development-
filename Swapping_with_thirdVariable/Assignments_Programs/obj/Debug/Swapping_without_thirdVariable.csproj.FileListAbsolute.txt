@@ -1,0 +1,8 @@
+C:\Users\abc\source\repos\Swapping_with_thirdVariable\Assignments_Programs\bin\Debug\Assignments_Programs.exe.config
+C:\Users\abc\source\repos\Swapping_with_thirdVariable\Assignments_Programs\bin\Debug\Assignments_Programs.exe
+C:\Users\abc\source\repos\Swapping_with_thirdVariable\Assignments_Programs\bin\Debug\Assignments_Programs.pdb
+C:\Users\abc\source\repos\Swapping_with_thirdVariable\Assignments_Programs\obj\Debug\Swapping_without_thirdVariable.csproj.AssemblyReference.cache
+C:\Users\abc\source\repos\Swapping_with_thirdVariable\Assignments_Programs\obj\Debug\Swapping_without_thirdVariable.csproj.SuggestedBindingRedirects.cache
+C:\Users\abc\source\repos\Swapping_with_thirdVariable\Assignments_Programs\obj\Debug\Swapping_without_thirdVariable.csproj.CoreCompileInputs.cache
+C:\Users\abc\source\repos\Swapping_with_thirdVariable\Assignments_Programs\obj\Debug\Assignments_Programs.exe
+C:\Users\abc\source\repos\Swapping_with_thirdVariable\Assignments_Programs\obj\Debug\Assignments_Programs.pdb

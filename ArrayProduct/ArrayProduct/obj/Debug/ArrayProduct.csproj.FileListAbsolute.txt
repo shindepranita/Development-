@@ -1,0 +1,8 @@
+C:\Users\abc\source\repos\ArrayProduct\ArrayProduct\bin\Debug\ArrayProduct.exe.config
+C:\Users\abc\source\repos\ArrayProduct\ArrayProduct\bin\Debug\ArrayProduct.exe
+C:\Users\abc\source\repos\ArrayProduct\ArrayProduct\bin\Debug\ArrayProduct.pdb
+C:\Users\abc\source\repos\ArrayProduct\ArrayProduct\obj\Debug\ArrayProduct.csproj.AssemblyReference.cache
+C:\Users\abc\source\repos\ArrayProduct\ArrayProduct\obj\Debug\ArrayProduct.csproj.SuggestedBindingRedirects.cache
+C:\Users\abc\source\repos\ArrayProduct\ArrayProduct\obj\Debug\ArrayProduct.csproj.CoreCompileInputs.cache
+C:\Users\abc\source\repos\ArrayProduct\ArrayProduct\obj\Debug\ArrayProduct.exe
+C:\Users\abc\source\repos\ArrayProduct\ArrayProduct\obj\Debug\ArrayProduct.pdb
